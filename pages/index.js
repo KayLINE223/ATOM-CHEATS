@@ -13,7 +13,6 @@ export default function Home() {
       <main>
         <Header title="Welcome To Atom Cheats!" />
         <p className="Here are All Of Our Socials">
-          Get started by editing <code>pages/index.js</code>
         </p>
       </main>
 
