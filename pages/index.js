@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>ATOM!</title>
-        <link rel="icon" href="Untitled.ico" />
+        <link rel="icon" href="U/ntitled.ico" />
       </Head>
 
       <main>
