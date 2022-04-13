@@ -9,13 +9,11 @@ export default function Home() {
         <title>ATOM!</title>
         <link rel="icon" href="/Untitled.ico" />
       </Head>
-
       <main>
         <Header title="Welcome To Atom Cheats!" />
         <p className="Here are All Of Our Socials">
         </p>
       </main>
-
       <Footer />
     </div>
   )
