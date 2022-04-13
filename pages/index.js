@@ -12,9 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Welcome To Atom Cheats!" />
-        <p>HTML images are defined with the img tag:</p>
-
-        <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
         <p className="Here are All Of Our Socials">
         </p>
       </main>
